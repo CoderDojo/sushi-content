@@ -1,0 +1,17 @@
+{
+  "language": "en",
+  "cards": [
+    {
+      "card_number": 1,
+      "title": "Writing Sushi",
+      "filename": "01"
+    }
+  ],
+  "serie_title": "Making Sushi Cards",
+  "description": "Teaches you how to make Sushi Cards with the new Sushi Generator tools, using the new Sushi Generator tools!",
+  "subject": "sushi cards",
+  "difficulty": 1,
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo"
+}

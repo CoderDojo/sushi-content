@@ -1,65 +1,65 @@
 {
-	"01": {
-	"title": "Getting setup",
-	"filename": "01",
-	"language": "python",
-	"level": 1,
-	"card_number": 1,
-	"series_total_cards": 7,
-	"series_title": "Get started with Python"
-	},
-	"02": {
-		"title": "Your first Python program",
-		"filename": "02",
-		"language": "python",
-		"level": 1,
-		"card_number": 2,
-		"series_total_cards": 7,
-		"series_title": "Get started with Python"
-	},
-	"03": {
-		"title": "Talking to the user",
-		"filename": "03",
-		"language": "python",
-		"level": 1,
-		"card_number": 3,
-		"series_total_cards": 7,
-		"series_title": "Get started with Python"
-	},
-	"04": {
-		"title": "Comparison & if statements",
-		"filename": "04",
-		"language": "python",
-		"level": 1,
-		"card_number": 4,
-		"series_total_cards": 7,
-		"series_title": "Get started with Python"
-	},
-	"05": {
-		"title": "Fancy if statements",
-		"filename": "05",
-		"language": "python",
-		"level": 1,
-		"card_number": 5,
-		"series_total_cards": 7,
-		"series_title": "Get started with Python"
-	},
-	"06": {
-		"title": "Loops",
-		"filename": "06",
-		"language": "python",
-		"level": 1,
-		"card_number": 6,
-		"series_total_cards": 7,
-		"series_title": "Get started with Python"
-	},
-	"07": {
-		"title": "Let's make a game!",
-		"filename": "07",
-		"language": "python",
-		"level": 1,
-		"card_number": 7,
-		"series_total_cards": 7,
-		"series_title": "Get started with Python"
-	}
+  "01": {
+    "title": "Getting setup",
+    "filename": "01",
+    "language": "python",
+    "subject": "python",
+    "card_number": 1,
+    "series_total_cards": 7,
+    "series_title": "Get started with Python"
+  },
+  "02": {
+    "title": "Your first Python program",
+    "filename": "02",
+    "language": "python",
+    "subject": "python",
+    "card_number": 2,
+    "series_total_cards": 7,
+    "series_title": "Get started with Python"
+  },
+  "03": {
+    "title": "Talking to the user",
+    "filename": "03",
+    "language": "python",
+    "subject": "python",
+    "card_number": 3,
+    "series_total_cards": 7,
+    "series_title": "Get started with Python"
+  },
+  "04": {
+    "title": "Comparison & if statements",
+    "filename": "04",
+    "language": "python",
+    "subject": "python",
+    "card_number": 4,
+    "series_total_cards": 7,
+    "series_title": "Get started with Python"
+  },
+  "05": {
+    "title": "Fancy if statements",
+    "filename": "05",
+    "language": "python",
+    "subject": "python",
+    "card_number": 5,
+    "series_total_cards": 7,
+    "series_title": "Get started with Python"
+  },
+  "06": {
+    "title": "Loops",
+    "filename": "06",
+    "language": "python",
+    "subject": "python",
+    "card_number": 6,
+    "series_total_cards": 7,
+    "series_title": "Get started with Python"
+  },
+  "07": {
+    "title": "Let's make a game!",
+    "filename": "07",
+    "language": "python",
+    "subject": "python",
+    "card_number": 7,
+    "series_total_cards": 7,
+    "series_title": "Get started with Python"
+  }
 }

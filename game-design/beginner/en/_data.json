@@ -1,0 +1,56 @@
+{
+  "01": {
+    "title": "Winning and Losing",
+    "filename": "01",
+    "language": "games",
+    "subject": "games",
+    "card_number": 1,
+    "series_total_cards": 6,
+    "series_title": "12 things every video game has"
+  },
+  "02": {
+    "title": "Game Components",
+    "filename": "02",
+    "language": "games",
+    "subject": "games",
+    "card_number": 2,
+    "series_total_cards": 6,
+    "series_title": "12 things every video game has"
+  },
+  "03": {
+    "title": "Player and the game",
+    "filename": "03",
+    "language": "games",
+    "subject": "games",
+    "card_number": 3,
+    "series_total_cards": 6,
+    "series_title": "12 things every video game has"
+  },
+  "04": {
+    "title": "Gameplay",
+    "filename": "04",
+    "language": "games",
+    "subject": "games",
+    "card_number": 4,
+    "series_total_cards": 6,
+    "series_title": "12 things every video game has"
+  },
+  "05": {
+    "title": "Flavour",
+    "filename": "05",
+    "language": "games",
+    "subject": "games",
+    "card_number": 5,
+    "series_total_cards": 6,
+    "series_title": "12 things every video game has"
+  },
+  "06": {
+    "title": "Building your Game",
+    "filename": "06",
+    "language": "games",
+    "subject": "games",
+    "card_number": 6,
+    "series_total_cards": 6,
+    "series_title": "12 things every video game has"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "serie_title": "Learn to code",
+  "language": "en",
+  "subject": "python",
+  "description": "For Ninjas who have completed the beginner Python cards and want to move on to something more challenging.",
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo",
+  "difficulty": 2,
+  "cards": [
+    {
+      "title": "Lists",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "For Loops",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Dictionaries",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Functions",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Files",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Challenge!",
+      "filename": "06",
+      "card_number": 6
+    }
+  ]
+}

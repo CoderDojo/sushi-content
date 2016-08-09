@@ -1,0 +1,42 @@
+{
+  "serie_title": "12 things every video game has",
+  "language": "en",
+  "subject": "games",
+  "cards": [
+    {
+      "title": "Winning and Losing",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Game Components",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Player and the game",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Gameplay",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Flavour",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Building your Game",
+      "filename": "06",
+      "card_number": 6
+    }
+  ],
+  "description": "Learn the basic theory of making great video games!",
+  "difficulty": 1,
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo"
+}

@@ -1,56 +1,56 @@
 {
-    "01": {
+  "01": {
     "title": "Lists",
     "filename": "01",
     "language": "python",
-    "level": 2,
+    "subject": "python",
     "card_number": 1,
     "series_total_cards": 6,
     "series_title": "Learn to code"
-    },
-    "02": {
+  },
+  "02": {
     "title": "For Loops",
     "filename": "02",
     "language": "python",
-    "level": 2,
+    "subject": "python",
     "card_number": 2,
     "series_total_cards": 6,
     "series_title": "Learn to code"
-    },
-    "03": {
+  },
+  "03": {
     "title": "Dictionaries",
     "filename": "03",
     "language": "python",
-    "level": 2,
+    "subject": "python",
     "card_number": 3,
     "series_total_cards": 6,
     "series_title": "Learn to code"
-    },
-    "04": {
+  },
+  "04": {
     "title": "Functions",
     "filename": "04",
     "language": "python",
-    "level": 2,
+    "subject": "python",
     "card_number": 4,
     "series_total_cards": 6,
     "series_title": "Learn to code"
-    },
-    "05": {
+  },
+  "05": {
     "title": "Files",
     "filename": "05",
     "language": "python",
-    "level": 2,
+    "subject": "python",
     "card_number": 5,
     "series_total_cards": 6,
     "series_title": "Learn to code"
-    },
-    "06": {
+  },
+  "06": {
     "title": "Challenge!",
-    "filename": "05",
+    "filename": "06",
     "language": "python",
-    "level": 2,
+    "subject": "python",
     "card_number": 6,
     "series_total_cards": 6,
     "series_title": "Learn to code"
-    }
+  }
 }
