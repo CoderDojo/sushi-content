@@ -1,0 +1,86 @@
+{
+  "01": {
+    "title": "Setup",
+    "filename": "01",
+    "language": "javascript",
+    "subject": "javascript",
+    "card_number": 1,
+    "series_total_cards": 6,
+    "series_title": "Advanced JavaScript",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "02": {
+    "title": "Project outline & wiring buttons",
+    "filename": "02",
+    "language": "javascript",
+    "subject": "javascript",
+    "card_number": 2,
+    "series_total_cards": 6,
+    "series_title": "Advanced JavaScript",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "03": {
+    "title": "Creating a list",
+    "filename": "03",
+    "language": "javascript",
+    "subject": "javascript",
+    "card_number": 3,
+    "series_total_cards": 6,
+    "series_title": "Advanced JavaScript",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "04": {
+    "title": "Adding an item to the list",
+    "filename": "04",
+    "language": "javascript",
+    "subject": "javascript",
+    "card_number": 4,
+    "series_total_cards": 6,
+    "series_title": "Advanced JavaScript",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "05": {
+    "title": "Marking an item complete",
+    "filename": "05",
+    "language": "javascript",
+    "subject": "javascript",
+    "card_number": 5,
+    "series_total_cards": 6,
+    "series_title": "Advanced JavaScript",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "06": {
+    "title": "Cleaning the list",
+    "filename": "06",
+    "language": "javascript",
+    "subject": "javascript",
+    "card_number": 6,
+    "series_total_cards": 6,
+    "series_title": "Advanced JavaScript",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  }
+}

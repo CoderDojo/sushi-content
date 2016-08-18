@@ -1,0 +1,42 @@
+{
+  "series_title": "Advanced HTML/CSS",
+  "language": "en",
+  "subject": "html",
+  "description": "Take what you've learned in previous HTML series and apply it to creating an awesome personal website",
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "@CoderDojo",
+  "difficulty": 3,
+  "cards": [
+    {
+      "title": "Setting up your site",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Site Skeleton",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Basic Menu",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Awesome Menu",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Fancy Headings",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Lightbox",
+      "filename": "06",
+      "card_number": 6
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My to-do list</title>
+        <!-- Include jQuery -->
+        <script type="text/javascript" src="js/jquery-3.1.0.min.js"></script>
+        <!-- Include to-do.js for to-do list code -->
+        <script type="text/javascript" src="js/to-do.js"></script>
+        <link rel="stylesheet" href="/css/style.css" media="screen" charset="utf-8">
+    </head>
+    <body>
+        <div class="todo-wrapper">
+            <h2>My to-do list</h2>
+            <p>Double-click an item to mark it complete.</p>
+            <form name="todo-adder">
+                <input type="text" name="new-todo" />
+            </form>
+            <div id="add-button" class="pretty-button">Add</div> <br />
+            <ol class="todo-list">
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li class="completed">Item 3</li>
+                <li>Item 4</li>
+            </ol>
+            <div class="control-wrapper">
+                <div id="clear-button" class="pretty-button">Clear Completed</div>
+                <div id="empty-button" class="pretty-button">Empty List</div>
+            </div>
+        </div>
+    </body>
+</html>

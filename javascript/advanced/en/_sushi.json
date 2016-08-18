@@ -1,0 +1,42 @@
+{
+  "series_title": "Advanced JavaScript",
+  "language": "en",
+  "subject": "javascript",
+  "description": "Covers advanced JavaScript topics, culminating in a project to build a web app.",
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo",
+  "difficulty": 3,
+  "cards": [
+    {
+      "title": "Setup",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Project outline & wiring buttons",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Creating a list",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Adding an item to the list",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Marking an item complete",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Cleaning the list",
+      "filename": "06",
+      "card_number": 6
+    }
+  ]
+}

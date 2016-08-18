@@ -1,0 +1,75 @@
+body {
+  background-color: #49B749;
+  font-family:  "HelveticaNeue-Light",
+                "Helvetica Neue Light",
+                "Helvetica Neue",
+                Helvetica, Arial,
+                "Lucida Grande",
+                sans-serif;
+}
+.todo-wrapper {
+  background-color: #fff;
+  border-radius: 15px;
+  font-weight: 300;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  padding: 30px;
+  width: 30%;
+}
+.todo-wrapper h2 {
+  margin: 0;
+}
+.todo-wrapper p {
+  color: #666;
+  font-style: italic;
+  margin: 5px 0;
+}
+.todo-wrapper ol {
+  margin: 20px 0;
+}
+.todo-wrapper ol li {
+    margin: 5px 0;
+    padding: 3px;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+.todo-wrapper ol li:nth-child(even) {
+  background: #ddd;
+}
+.todo-wrapper .completed {
+  color: #666;
+  text-decoration: line-through;
+}
+.todo-wrapper .pretty-button {
+  background-color: #0093D5;
+  border-radius: 15px;
+  border: none;
+  color: #fff;
+  display: inline-block;
+  font-size: small;
+  margin: 10px 2px;
+  padding: 5px 20px;
+  text-align: center;
+}
+.todo-wrapper .pretty-button:hover {
+  cursor: pointer;
+  opacity: 0.75;
+}
+.todo-wrapper input {
+  padding: 3px 6px;
+}
+.todo-wrapper form {
+  display: inline-block;
+}
+.todo-wrapper .control-wrapper {
+  text-align: center;
+}
+.todo-wrapper #clear-button {
+  background-color: #49B749;
+}
+.todo-wrapper #empty-button {
+  background-color: #9B1C20;
+}

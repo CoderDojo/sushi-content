@@ -1,0 +1,86 @@
+{
+  "01": {
+    "title": "Setting up your site",
+    "filename": "01",
+    "language": "html",
+    "subject": "html",
+    "card_number": 1,
+    "series_total_cards": 6,
+    "series_title": "Advanced HTML/CSS",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "02": {
+    "title": "Site Skeleton",
+    "filename": "02",
+    "language": "html",
+    "subject": "html",
+    "card_number": 2,
+    "series_total_cards": 6,
+    "series_title": "Advanced HTML/CSS",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "03": {
+    "title": "Basic Menu",
+    "filename": "03",
+    "language": "html",
+    "subject": "html",
+    "card_number": 3,
+    "series_total_cards": 6,
+    "series_title": "Advanced HTML/CSS",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "04": {
+    "title": "Awesome Menu",
+    "filename": "04",
+    "language": "html",
+    "subject": "html",
+    "card_number": 4,
+    "series_total_cards": 6,
+    "series_title": "Advanced HTML/CSS",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "05": {
+    "title": "Fancy Headings",
+    "filename": "05",
+    "language": "html",
+    "subject": "html",
+    "card_number": 5,
+    "series_total_cards": 6,
+    "series_title": "Advanced HTML/CSS",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  },
+  "06": {
+    "title": "Lightbox",
+    "filename": "06",
+    "language": "html",
+    "subject": "html",
+    "card_number": 6,
+    "series_total_cards": 6,
+    "series_title": "Advanced HTML/CSS",
+    "author": {
+      "name": "CoderDojo Foundation",
+      "twitter": "CoderDojo",
+      "website": "https://coderdojo.com"
+    }
+  }
+}
